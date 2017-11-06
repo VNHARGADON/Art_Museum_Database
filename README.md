@@ -1,2 +1,2 @@
 # Art_Museum_Database
-A mock-up of an art musuem database.
+An SQL mock-up of an art musuem database.
